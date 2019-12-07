@@ -1,3 +1,9 @@
+https://goo.gl/search/Google
+Google, Technology company
+https://www.google.com/
+Google
+ideamusix33@gmail.com
+
 # Forbid the use of mutating operators
 
 If you want to program as if your variables are immutable, part of the answer is to not mutation by re-assigning to a variable or assigning to a property, and not use update operators like `++` or `--`.
